@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="688ed1bf-460c-48e4-b109-eb66765815c8" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="D:\JavaSoft\apache-maven-3.6.1\mvn_resp" />
+        <option name="mavenHome" value="$PROJECT_DIR$/../../../JavaSoft/apache-maven-3.6.1" />
+        <option name="userSettingsFile" value="D:\JavaSoft\apache-maven-3.6.1\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="ProjectErrors" />
+  </component>
+  <component name="ProjectId" id="2A7n343dxQKNifPQT2Cl1bau7WH" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RequestMappingsPanelOrder0&quot;: &quot;0&quot;,
+    &quot;RequestMappingsPanelOrder1&quot;: &quot;1&quot;,
+    &quot;RequestMappingsPanelWidth0&quot;: &quot;75&quot;,
+    &quot;RequestMappingsPanelWidth1&quot;: &quot;75&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/BaiduNetdiskDownload/基于Springboot+小程序的在线外卖点餐系统/xshopping&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;MavenSettings&quot;,
+    &quot;spring.configuration.checksum&quot;: &quot;06e161d3df79b86a2d18f54921b69ed6&quot;
+  }
+}</component>
+  <component name="RunManager" selected="Spring Boot.Application">
+    <configuration name="login.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/xshopping/static/end/page/login.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <option name="FRAME_DEACTIVATION_UPDATE_POLICY" value="UpdateResources" />
+      <module name="xshopping" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.Application" />
+      <option name="UPDATE_ACTION_UPDATE_POLICY" value="UpdateResources" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JavaScript Debug.login.html" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="688ed1bf-460c-48e4-b109-eb66765815c8" name="Default Changelist" comment="" />
+      <created>1654369288631</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1654369288631</updated>
+      <workItem from="1654369291275" duration="6789000" />
+      <workItem from="1672943744611" duration="1363000" />
+      <workItem from="1681306882159" duration="4373000" />
+      <workItem from="1681312591430" duration="1955000" />
+      <workItem from="1681347877060" duration="202000" />
+      <workItem from="1681390590376" duration="2124000" />
+      <workItem from="1681438444410" duration="1487000" />
+      <workItem from="1683862905694" duration="629000" />
+      <workItem from="1683944890089" duration="238000" />
+      <workItem from="1683945147993" duration="1494000" />
+      <workItem from="1683948898528" duration="1086000" />
+      <workItem from="1684467890134" duration="625000" />
+      <workItem from="1684500279196" duration="241000" />
+      <workItem from="1684500556108" duration="21000" />
+      <workItem from="1684501053668" duration="5594000" />
+      <workItem from="1684508552213" duration="130000" />
+      <workItem from="1684551139038" duration="680000" />
+      <workItem from="1685168095804" duration="611000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

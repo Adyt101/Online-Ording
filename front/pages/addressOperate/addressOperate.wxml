@@ -1,0 +1,19 @@
+<view class="container">
+  <view class="inputView">
+    <image src="../../imgs/star.png"></image>
+    <input type="text" placeholder="姓名" maxlength="30" bindinput="onInput" data-typename='name' value="{{addressInfo.name}}"></input>
+  </view>
+  
+  <view class="inputView">
+    <image src="../../imgs/star.png"></image>
+    <input type="number" placeholder="电话" maxlength="30" bindinput="onInput" data-typename='phone' value="{{addressInfo.phone}}"></input>
+  </view>
+  
+  <view class="inputView">
+    <image src="../../imgs/star.png"></image>
+    <input type="text" placeholder="详细地址" maxlength="250" bindinput="onInput" data-typename='address' value="{{addressInfo.address}}"></input>
+  </view>
+
+  <text class="btn-save" bindtap="operate">保存</text>
+  
+</view>
